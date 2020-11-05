@@ -1,0 +1,17 @@
+.header-container {
+    margin-right: 40 px;
+    margin-left: 20 px;
+    margin-bottom: 10 px;
+    display: block;
+    background: rgb(255, 253, 224);
+}
+nav{ 
+  
+    text-align: right;
+    
+}
+.container > .item {
+    background: #777;
+    width: 50%;
+    height: 50px;
+}
